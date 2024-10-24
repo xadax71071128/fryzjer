@@ -1,0 +1,33 @@
+      body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: flex;
+            align-items: flex-start;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 20px;
+        }
+        th, td {
+            border: 1px solid #795548;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #bcaaa4;
+        }
+        .promotion {
+            margin: 20px 40px; 
+        }
+        .promotion h1 {
+            font-size: 24px;
+        }
+        .promotion label {
+            display: block;
+            margin: 5px 0;
+        }
+        .promotion button {
+            margin-top: 10px;
+        }
+        
